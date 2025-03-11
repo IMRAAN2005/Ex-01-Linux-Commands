@@ -1,7 +1,7 @@
-## Ex-01-Linux-Commands
+# Ex-01-Linux-Commands
 
-# Name: SHAIK MAHAMMAD IMRAAN
-# Reg No: 212223100053
+## Name: SHAIK MAHAMMAD IMRAAN
+## Reg No: 212223100053
 ## Aim:
 
 To study the execution of various Linux operating system commands.
